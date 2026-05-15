@@ -37,4 +37,4 @@ https://hacker-news.firebaseio.com/v0/topstories.json
 
 ### Detail Screen
 
-(screenshots/detail_screen.png
+![Detail Screen](C:\Users\Rajan_gaur\StudioProjects\hacker_news_reader\Screenshots\detail_screen.png)
