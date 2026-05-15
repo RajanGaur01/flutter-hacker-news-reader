@@ -33,8 +33,8 @@ https://hacker-news.firebaseio.com/v0/topstories.json
 
 ### Home Screen
 
-![Home Screen](C:\Users\Rajan_gaur\StudioProjects\hacker_news_reader\Screenshots\home_screen.png)
+![Home Screen](https://i.ibb.co/hRNFWF66/home-screen.png)
 
 ### Detail Screen
 
-![Detail Screen](C:\Users\Rajan_gaur\StudioProjects\hacker_news_reader\Screenshots\detail_screen.png)
+![Detail Screen](https://i.ibb.co/4n72PYCT/detail-screen.png)
